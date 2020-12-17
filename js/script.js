@@ -16,16 +16,6 @@ listaNomi.push(nome);
 
 }
 
-// if we dont want a particular person to have access to the party we can use this method below
-
-// if( nome >= listaNomi){
-//
-// document.getElementById('result').innerHTML ="welcome invitess your name has been adeede to the list " + listaNomi;
-// }
-//  else {
-//   message = "sorry you are not invited";
-//   document.getElementById('result2').innerHTML ="sorry you cant access the live party but your details have been saved";
-// }
 
 
 
